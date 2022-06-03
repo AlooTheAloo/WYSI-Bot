@@ -7,7 +7,7 @@ It prints a WHEN YOU SEE IT message at 7:27 AM and PM (depending on sys time)
 # How do I run this?
 First, clone the repository
 ```
-git clone (repo-url) 
+git clone https://github.com/AlooTheAloo/WYSI-Bot
 ```
 Make sure you have python installed
 If you don't have it installed, follow the directions and install it from the microsoft store (if you are on windows).
