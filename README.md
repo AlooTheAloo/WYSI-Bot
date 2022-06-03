@@ -20,9 +20,9 @@ pip install discord
 ```
 Create an application + bot in the discord developper portal  
 https://discord.com/developers/applications  
-Save the token by pressing 'Reset token' in the 'Bot' section  
+Generate a token by pressing 'Reset token' in the 'Bot' section  
 <img src="https://cdn.discordapp.com/attachments/453287916584566808/982374973417091173/unknown.png">  
-And paste it in the token.txt file  
+Finally, paste it in the token.txt file  
 
 Finally, run the project using python
 ```
