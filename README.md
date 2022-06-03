@@ -26,7 +26,7 @@ Then, paste it in the token.txt file
 
 Next, you'll want to invite the bot to your server.  
 You can do this by copying the application ID of your bot and pasting it inside this link  
-(where it says client_id=ID_HERE, replace ID_HERE with your ID)
+(where it says client_id=ID_HERE, replace ID_HERE with your ID)  
 https://discordapp.com/oauth2/authorize?client_id=ID_HERE&scope=bot&permissions=0
 
 Finally, run the project using python
