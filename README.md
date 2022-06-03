@@ -1,6 +1,6 @@
 An open-source discord bot to help you to never forget to see it at 727
 
-# What does this bot do?
+### What does this bot do?
 It prints a WYSI 727 message at 7:27 AM and PM (depending on sys time)
 
 
