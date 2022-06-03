@@ -9,7 +9,7 @@ First, clone the repository
 ```
 git clone https://github.com/AlooTheAloo/WYSI-Bot
 ```
-Make sure you have python installed
+Make sure you have python installed  
 If you don't have it installed, follow the directions and install it from the microsoft store (if you are on windows).
 ```
 python
