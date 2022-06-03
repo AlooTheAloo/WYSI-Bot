@@ -1,5 +1,5 @@
-# WYSI-Bot
-WHEN YOU FUCKING SEE IT
+
+
 
 # What does this bot do?
 It prints a WHEN YOU SEE IT message at 7:27 AM and PM (depending on sys time)
@@ -18,6 +18,12 @@ Next, install the discord library from pip
 ```
 pip install discord
 ```
+Create an application + bot in the discord developper portal
+https://discord.com/developers/applications
+Save the token by pressing 'Reset token' in the 'Bot' section
+<img src="https://cdn.discordapp.com/attachments/453287916584566808/982374973417091173/unknown.png">
+And paste it in the token.txt file
+
 Finally, run the project using python
 ```
 python wysi.py
