@@ -22,7 +22,12 @@ Create an application + bot in the discord developper portal
 https://discord.com/developers/applications  
 Generate a token by pressing 'Reset token' in the 'Bot' section  
 <img src="https://cdn.discordapp.com/attachments/453287916584566808/982374973417091173/unknown.png">  
-Finally, paste it in the token.txt file  
+Then, paste it in the token.txt file  
+
+Next, you'll want to invite the bot to your server.  
+You can do this by copying the application ID of your bot and pasting it inside this link 
+(where it says client_id=ID_HERE, replace ID_HERE with your ID)
+https://discordapp.com/oauth2/authorize?client_id=ID_HERE&scope=bot&permissions=0
 
 Finally, run the project using python
 ```
