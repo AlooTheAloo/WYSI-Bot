@@ -10,10 +10,10 @@ First, clone the repository
 git clone (repo-url) 
 ```
 Make sure you have python installed
+If you don't have it installed, follow the directions and install it from the microsoft store (if you are on windows).
 ```
 python
 ```
-If you don't have it installed, follow the directions and install it from the microsoft store (if you are on windows).
 Next, install the discord library from pip
 ```
 pip install discord
