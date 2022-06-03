@@ -28,3 +28,5 @@ Finally, run the project using python
 ```
 python wysi.py
 ```
+
+If you see a timestamp showing every couple of seconds, the code is working correctly!
