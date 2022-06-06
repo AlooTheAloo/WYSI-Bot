@@ -20,7 +20,7 @@ async def wysi_test(currenttime):
 
     if currenttime == "00:00" or currenttime == "12:00":
         sentMessageToday = False
-    if (currenttime != "7:27" and currenttime != "19:27") or sentMessageToday:
+    if (currenttime != "07:27" and currenttime != "19:27") or sentMessageToday:
         return
     sentMessageToday = True
     for channel in client.get_all_channels():
