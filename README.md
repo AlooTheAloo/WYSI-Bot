@@ -1,4 +1,6 @@
-An open-source discord bot to help you to never forget to see it at 727
+<img src="https://cdn.discordapp.com/attachments/453287916584566808/994250135909437490/CoverImage.jpg">  
+
+An open-source discord bot to help you to never forget WYSI 727
 
 ### What does this bot do?
 It prints a WYSI 727 message at 7:27 AM and PM (depending on sys time)
